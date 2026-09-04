@@ -1,0 +1,30 @@
+﻿=== CVNP1606-W01 Evidence Report ===
+Generated : 2026-08-27 20:10:11
+Host      : CVNP1606-VM
+
+[SYSTEM]
+  Hostname   : CVNP1606-VM
+  OS         : Windows 10 Pro
+  Version    : 10.0.26200
+  Firmware   : Uefi
+
+[LOCAL ACCOUNTS]
+  Administrator            Enabled: False
+  Alora_Dana               Enabled: True
+  DefaultAccount           Enabled: False
+  Guest                    Enabled: False
+  Test                     Enabled: True
+  WDAGUtilityAccount       Enabled: False
+
+[ADMINISTRATORS GROUP]
+  CVNP1606-VM\Administrator (Local)
+  CVNP1606-VM\Alora_Dana (Local)
+
+[TPM]
+  TpmPresent   : True
+  TpmEnabled   : True
+
+[REQUIRED FILES]
+  inventory.txt : NOT FOUND
+
+Commit this file (evidence-report.txt) to your GitHub repo under week01-build-sheet/.

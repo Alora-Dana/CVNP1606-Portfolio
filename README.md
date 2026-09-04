@@ -1,5 +1,6 @@
 # cvnp1606-portfolio
 CVNP1606-Windows-OS-Support-evidence-portfolio
+<<<<<<< HEAD
 Alora-Dana — Windows 11 Endpoint Support Portfolio
 
 Hands-on support work from a 16-week Windows 11 administration course:
@@ -19,3 +20,5 @@ portal screenshots, logs) — not writeups about work, the work itself.
 | 01 | [Build sheet](week01-build-sheet/) | Windows 11 build + evidence-backed baseline |
 | 02 | [User FAQ](week02-user-faq/) | Validated user-facing documentation |
 | ... | (add a row as each week lands) | |
+=======
+>>>>>>> 21722ac (Week 1: endpoint baseline evidence)
