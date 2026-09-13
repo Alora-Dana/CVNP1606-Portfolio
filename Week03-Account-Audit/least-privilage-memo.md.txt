@@ -1,0 +1,16 @@
+This memo clarifies how we assign local administrator access at ACME.
+We follow the rule of least privilege, which means that users only get the access that they absolutely need to do their jobs.
+
+When Admin access is allowed/justified.
+We grant admin access based on individuals' daily job tasks.
+Admin access must never be granted purely for convenience.
+IT Technicians get admin access because they regularly install system software and manage OS services.
+Standard and seasonal staff do not get admin access as they don't need the escalated permissions to complete their daily job duties.
+
+When to escalate the request.
+If a user asks for admin rights just because a program repeatedly asks for admin credentials, do not give them admin access.
+Instead, escalate the issue/request to the IT support team with appropriate information and evidence required to complete and resolve any issues/tasks.
+
+Evidence required to support an exception request.
+If a standard user has a genuine, one-time need for admin rights, like for installing a specific hardware driver, you can grant temporary access.
+You must first document the reason, the exact task, obtain necessary signatures and/or approvals, provide evidence that this is the safest / most reasonable solution, and be sure to document in an audit log showing exactly when access was granted, what the used utilized it for, and when it was turned back off.
