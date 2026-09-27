@@ -1,0 +1,4 @@
+Create a File - Allowed
+Edit and save a file - Allowed
+Delete an Admin owned file - Allowed
+Open security tab - Allowed - Edit not allowed. Admin Cred. prompt.
