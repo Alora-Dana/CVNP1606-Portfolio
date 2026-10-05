@@ -1,0 +1,1 @@
+CPU: The CPU utilization is pinned at 100%. This can be observed in the screenshot "wk5-resource-monitor-evidence". This is consistently producing slow response times with programs, and freezing between switching processes.

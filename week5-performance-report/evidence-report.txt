@@ -1,0 +1,29 @@
+﻿=== CVNP1606-W05 Evidence Report ===
+Generated : 2026-10-05 00:47:04
+Host      : DESKTOP-DQ804P8
+
+[SYSTEM]
+  Hostname   : DESKTOP-DQ804P8
+  OS         : Windows 10 Pro
+  Version    : 10.0.26200
+  Firmware   : Uefi
+
+[LOCAL ACCOUNTS]
+  Administrator            Enabled: False
+  Dana                     Enabled: True
+  DefaultAccount           Enabled: False
+  Guest                    Enabled: False
+  WDAGUtilityAccount       Enabled: False
+
+[ADMINISTRATORS GROUP]
+  DESKTOP-DQ804P8\Administrator (Local)
+  DESKTOP-DQ804P8\Dana (Local)
+
+[TPM]
+  TpmPresent   : True
+  TpmEnabled   : True
+
+[REQUIRED FILES]
+  inventory.txt : FOUND (1 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week05-performance-report/.
