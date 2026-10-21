@@ -1,0 +1,17 @@
+Ticket prioritization is as follows:
+
+1.) Ticket A
+2.) Ticket C
+3.) Ticket D
+4.) Ticket B
+
+
+Reasoning:
+
+Ticket A- User can't perform any work duties. There is no work-arounds. Evidence provided states "repeated failed logon attempts in the Security event log" indicating a possible security risk. If an attack, could potentially affect other users on the network.
+
+Ticket C- Has hard deadline. User can't complete work duties without resolution. No work-around.
+
+Ticket D- Has a deadline, not as urgent/soon as C. Can't do work, no work-around. 
+
+Ticket B- User can still work. Issue is inconvenient, non-critical.
